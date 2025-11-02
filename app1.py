@@ -166,7 +166,7 @@ def create_pdf_from_df(results_df, title="Emirates Review Insights"):
 
     def draw_wrapped(text, y_pos, line_height=14):
         """Draw wrapped text and return new y position; page-break if needed."""
-        wrapper = textwrap.TextWrapper(width=95)  # tune if you change font/size
+        wrapper = textwrap.TextWrapper(width=95)  # tune if to change font/size
         for line in wrapper.wrap(text):
             if y_pos < margin_bottom + 20:  # new page
                 c.showPage()
@@ -455,4 +455,5 @@ elif section == "Chatbot":
                     data=st.session_state.pdf_bytes,
                     file_name="emirates_review_insights.pdf",
                     mime="application/pdf"
+
                 )
