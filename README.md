@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/29b0318e-1996-4581-9548-ac0bd5cab5c2" />
+<img width="3840" height="4065" alt="image" src="https://github.com/user-attachments/assets/9fcd0789-c624-46a9-968f-157ed1c3902f" />
+
 # Sentiment-Analysis- 
 To view and test this through streamlit visit the provided link below; Warning ⚠ This will redirect to streamlit website for testing the application. 
 https://hyagtr7dguiuccvuqrwakq.streamlit.app/
