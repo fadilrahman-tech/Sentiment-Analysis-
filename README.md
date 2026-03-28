@@ -3,12 +3,12 @@
 
 # Sentiment-Analysis- 
 To view and test this through streamlit visit the provided link below; Warning ⚠ This will redirect to streamlit website for testing the application. 
+
 https://hyagtr7dguiuccvuqrwakq.streamlit.app/
 
-Sentiment Analysis of Emirates Airline Reviews Using AI Techniques
-<img width="1500" height="500" alt="key_ratings_distribution" src="https://github.com/user-attachments/assets/2b7ced8e-000c-4a3a-96f8-2b8a1b160ead" />
-<img width="700" height="500" alt="geographic_review_map" src="https://github.com/user-attachments/assets/d69f10f4-9ccd-4c10-879a-724a0b6cb12b" />
-<img width="800" height="600" alt="ROC" src="https://github.com/user-attachments/assets/c7921a1f-5bbd-4e43-92dc-12b71606a336" />
-
-<img width="1360" height="516" alt="Screenshot 2026-03-28 112023" src="https://github.com/user-attachments/assets/9a64e175-8bf7-4f68-ac77-3e2c893ed998" />
-<img width="1359" height="595" alt="3" src="https://github.com/user-attachments/assets/670f9cb2-27d6-44db-b845-1bfbc1408fd5" />
+<img width="1365" height="474" alt="5" src="https://github.com/user-attachments/assets/fe8e836f-6ebb-4578-85d2-bee97d24492d" />
+<img width="1359" height="562" alt="4" src="https://github.com/user-attachments/assets/cba0d901-4e8c-453e-895d-e9dfb0c490f4" />
+<img width="1359" height="595" alt="3" src="https://github.com/user-attachments/assets/d3068b4f-6292-4928-a5a7-0ef6025bce09" />
+<img width="1365" height="559" alt="2" src="https://github.com/user-attachments/assets/27d30244-4054-48a5-95e5-075ab14cffba" />
+<img width="1360" height="516" alt="1" src="https://github.com/user-attachments/assets/6afd24a2-de3a-41a1-8216-e0fefeec8b91" />
+<img width="1364" height="551" alt="6" src="https://github.com/user-attachments/assets/45fb2db4-1ad9-4eac-a0ef-b74b307633e4" />
