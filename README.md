@@ -12,3 +12,5 @@ https://hyagtr7dguiuccvuqrwakq.streamlit.app/
 <img width="1359" height="595" alt="3" src="https://github.com/user-attachments/assets/6ead08d7-8545-4b33-b741-9a87c4d25b0d" />
 <img width="1362" height="538" alt="2" src="https://github.com/user-attachments/assets/3a486f83-5f27-4c63-8438-f255e297bda5" />
 <img width="1360" height="516" alt="1" src="https://github.com/user-attachments/assets/e4cce903-7aa8-4746-a430-c682c81eb9a9" />
+<img width="1365" height="585" alt="8" src="https://github.com/user-attachments/assets/205b477b-2875-476a-80f5-3f930e85463f" />
+<img width="1362" height="548" alt="7" src="https://github.com/user-attachments/assets/015438a9-7258-4001-bc25-2f999cc20e48" />
