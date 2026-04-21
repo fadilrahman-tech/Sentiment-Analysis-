@@ -1,4 +1,4 @@
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/9fcd0789-c624-46a9-968f-157ed1c3902f" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/9fcd0789-c624-46a9-968f-157ed1c3902f" />
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/29b0318e-1996-4581-9548-ac0bd5cab5c2" />
 
 The app may get into hibernation after certain time of inactvity from the server side of Streamlit, If then click the wake up -app which may take a few seconds to load the application.
